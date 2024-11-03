@@ -3,12 +3,13 @@
 session_start();
 include('../conn.php');
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="../style/index.css">
-    <link rel="stylesheet" href="../style/produc.css">
+    <link rel="stylesheet" href="../style/product.css">
     <link rel="stylesheet" href="../style/header.css">
     <link rel="stylesheet" href="../style/footer.css">
     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
