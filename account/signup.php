@@ -22,7 +22,7 @@ if (isset($_POST['submit'])) {
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../style/account.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <title>Signup</title>
@@ -57,10 +57,10 @@ if (isset($_POST['submit'])) {
                     <div class="social-login">
                             <p>Or sign up with:</p>
                             <a href="https://www.facebook.com/" class="social-btn">
-                            <img src="../user/image/facebook.png"><h1></h1> 
+                            <img src="../user/image/facebook.png"><h1></h1>
                             </a>
                             <a href="https://accounts.google.com/" class="social-btn">
-                            <img src="../user/image/google.png"><h1></h1> 
+                            <img src="../user/image/google.png"><h1></h1>
                             </a>
                     </div>
                 <!---social start ---->
@@ -70,4 +70,3 @@ if (isset($_POST['submit'])) {
     <!---sinup container End ----->
 </body>
 </html>
-
