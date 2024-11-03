@@ -66,8 +66,8 @@ if (isset($_POST['delete_id'])) {
             ?>
         </div>
         <!-- Cart Summary  start-->
-        <div class="summary-section">
-            <h3>Cart Summary</h3>
+           <div class="summary-section">
+	            <h3>Cart Summary</h3>
                 <div class="summary-details">
                     <p id="total-items"> Items in the cart: 0</p>
                     <p id="total-price">Total: 0 MAD</p>
