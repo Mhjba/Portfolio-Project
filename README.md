@@ -3,4 +3,4 @@ This project is an e-commerce platform designed to provide users with an easy an
 
 # live demo
 
-- [![Video Demo]()](https://youtu.be/_3pPuNGVU0Q)![home page](https://github.com/user-attachments/assets/7c91ad15-6031-423b-9da7-07f7e97725de)
+- [![Video Demo]()]![home page](https://github.com/user-attachments/assets/7c91ad15-6031-423b-9da7-07f7e97725de)(https://youtu.be/_3pPuNGVU0Q)
