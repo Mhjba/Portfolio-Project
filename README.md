@@ -20,6 +20,6 @@ This project is an e-commerce platform designed to provide users with an easy an
 [![Video Demo](https://i9.ytimg.com/vi_webp/R2c192hCcM4/maxresdefault.webp?v=6728a382&sqp=CNTGorkG&rs=AOn4CLAI3xvx_BYf6pCMRzgTYIKedTEpbw)](https://youtu.be/R2c192hCcM4)
 
 ## Author
-     - project Electro.shop backend and Frontend is authored by Mahjouba Ait Alla.
+     - project Electro.shop Backend and Frontend is authored by Mahjouba Ait Alla.
 
 
