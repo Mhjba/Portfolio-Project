@@ -72,7 +72,7 @@ if (isset($_POST['delete_id'])) {
                     <p id="total-items"> Items in the cart: 0</p>
                     <p id="total-price">Total: 0 MAD</p>
                     <!--btn-->
-                    <form action="payment.php" method="post">
+                    <form action="../account/signup.php" method="post">
                         <button type="submit" class="btn btn-payment">Process Payment</button>
                     </form>
                 </div>
