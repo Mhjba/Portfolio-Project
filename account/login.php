@@ -26,7 +26,7 @@ include('../conn.php');
                 if (mysqli_num_rows($result) == 1) {
                     $_SESSION['EMAIL'] = $email;
                     echo '<script>alert("WELCOME TO THE SHOPPING STORE.");</script>';
-                    header("REFRESH:2; URL=../user/index.php");
+                    header("REFRESH:2; URL=../user/payment.php");
                 } else {
                     echo '<script>alert("INCORRECT EMAIL OR PASSWORD.");</script>';
                     header("REFRESH:2; URL=login.php");
